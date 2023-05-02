@@ -1,0 +1,23 @@
+.controls {
+    display: flex;
+    column-gap: 40px;
+}
+
+.plus-minus {
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+}
+
+.plus {
+    border-radius: 15px;
+    background-color: #181823;
+    color: #fff;
+}
+
+.minus {
+    border-radius: 15px;
+    background-color: #fff;
+    border: 1px solid #181823;
+    color: #181823;
+}
